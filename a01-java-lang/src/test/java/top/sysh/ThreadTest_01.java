@@ -44,5 +44,4 @@ public class ThreadTest_01 {
         Thread.currentThread().join();
     }
 
-
 }
